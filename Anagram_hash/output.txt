@@ -1,0 +1,12 @@
+
+[a] 정렬한 문자열:a, 3k_words.txt파일에서의 애나그램 단어: a 
+
+[buaes] 정렬한 문자열:abesu, 3k_words.txt파일에서의 애나그램 단어: abuse 
+
+[atc] 정렬한 문자열:act, 3k_words.txt파일에서의 애나그램 단어: act 
+
+[yek] 정렬한 문자열:eky, 3k_words.txt파일에서의 애나그램 단어: key 
+
+[ba] 정렬한 문자열:ab, 애나그램 단어 없음
+
+[teg] 정렬한 문자열:egt, 3k_words.txt파일에서의 애나그램 단어: get 
