@@ -1,0 +1,50 @@
+abc
+=bca
+=cab
+=cba
+
+충돌
+
+
+key a, b , c ->넣으면 -> h(a) h(b) h(c) 
+
+
+0  1  2  3  4  5  6  7  8  9  10
+    a     b      c
+    d e  f          g     h
+              i       j         k
+l      m               n      o   p
+q  r         s         t           u
+      v          w        x   y   z
+
+1)정렬하고 해시함수에 넣는방법
+2)해시함수를 
+
+
+
+abc  ->a1b1c1
+aabbcc ->a2b2c2
+
+
+
+해시함수-----------------------
+
+
+1. 키 값 인수로 받아오기  Hashfunction( Key key 
+key='abc', 'bbbaac' ,  ... 식으로.
+
+2. 받아온 키 값이 'abc' ->a1b1c1으로.
+                      'bbbaac' ->a2b3c1으로. 
+
+단어장의 모든 단어들도 이런식으로 바꿔주고 같은 것들을 리스트에 담아 반환
+
+
+
+
+
+
+
+
+
+
+
