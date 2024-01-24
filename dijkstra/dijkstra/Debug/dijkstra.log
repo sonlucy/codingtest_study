@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\82102\source\repos\dijkstra\dijkstra\소스.cpp(68,22): warning C4805: '!=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\82102\source\repos\dijkstra\dijkstra\소스.cpp(110,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\82102\source\repos\dijkstra\dijkstra\소스.cpp(111,13): warning C4101: 'end' :참조되지 않은 지역 변수입니다.
+C:\Users\82102\source\repos\dijkstra\dijkstra\소스.cpp(111,6): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+  dijkstra.vcxproj -> C:\Users\82102\source\repos\dijkstra\Debug\dijkstra.exe
